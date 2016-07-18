@@ -10,6 +10,7 @@ title: 杰胜房产
 email: 
 description: > # this means to ignore newlines until "baseurl:"
   微信号:xzgn2014
+  联系电话：180xxxxxxxx
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 wechat_username: jekyllrb
