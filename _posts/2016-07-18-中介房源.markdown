@@ -10,8 +10,7 @@ categories:
 **临山兆通花园**
 
 
-
-<table>
+<table class="table table-bordered table-striped table-condensed">
    <tr>
       <td>小区</td>
       <td></td>
