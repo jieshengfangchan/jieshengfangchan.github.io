@@ -18,3 +18,6 @@ github_username:
 
 # Build settings
 markdown: kramdown
+baidu_tongji:
+  enable:true
+  sitecode:3e46afd4331afba50aff81c93809e498
