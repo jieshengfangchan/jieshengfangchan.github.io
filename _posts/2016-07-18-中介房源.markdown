@@ -5,7 +5,13 @@ date:   2016-06-12 23:28:58 +0800
 categories: 
 ---
 
-如有意向房源请直接联系杰胜房产，联系方式见左边。
+如有意向房源请直接联系杰胜房产。
+
+联系电话：18067297981 微信号：jieshengfangchan0574
+
+联系人：陈女士
+
+店面地址：临山镇迎凤路142号。
 
 **临山兆通花园**
 
@@ -21,6 +27,28 @@ categories:
       <td>价格</td>
       <td></td>
       <td>备注</td>
+   </tr>
+   <tr>
+      <td>临山兆通花园</td>
+      <td></td>
+      <td>9</td>
+      <td></td>
+      <td>87</td>
+      <td></td>
+      <td>低价出售</td>
+      <td></td>
+      <td>毛坯</td>
+   </tr>
+   <tr>
+      <td>临山兆通花园</td>
+      <td></td>
+      <td>3</td>
+      <td></td>
+      <td>124</td>
+      <td></td>
+      <td>面议</td>
+      <td></td>
+      <td>毛坯，租售皆可</td>
    </tr>
    <tr>
       <td>临山兆通花园</td>
@@ -1158,6 +1186,13 @@ categories:
    </tr>
    <tr>
       <td>临山锦园</td>
+      <td>3</td>
+      <td>102</td>
+      <td>面议</td>
+      <td>毛坯，租售皆可</td>
+   </tr>
+   <tr>
+      <td>临山锦园</td>
       <td>4</td>
       <td>121</td>
       <td>面议</td>
@@ -1329,6 +1364,41 @@ categories:
    </tr>
 </table>
 
+**黄家埠郡王府**
+
+<table>
+   <tr>
+      <td>小区</td>
+      <td>楼层</td>
+      <td>面积(m^2)</td>
+      <td>价格</td>
+      <td>备注</td>
+   </tr>
+   <tr>
+      <td>黄家埠郡王府</td>
+      <td>2</td>
+      <td>87.57</td>
+      <td>低价出售</td>
+      <td>送储藏室</td>
+   </tr>
+   <tr>
+      <td>黄家埠郡王府</td>
+      <td>3</td>
+      <td>128</td>
+      <td>低价出售</td>
+      <td>送架空层</td>
+   </tr>
+   <tr>
+      <td>黄家埠郡王府</td>
+      <td>2</td>
+      <td>115.56</td>
+      <td>低价出售</td>
+      <td>送车库</td>
+   </tr>
+   <tr>
+      <td></td>
+   </tr>
+</table>
 
 **其他房源**
 
